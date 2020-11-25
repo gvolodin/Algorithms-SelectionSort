@@ -1,0 +1,7 @@
+C:\Users\gleb.volodin\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+C:\Users\gleb.volodin\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\gleb.volodin\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\gleb.volodin\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\gleb.volodin\source\repos\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\gleb.volodin\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\gleb.volodin\source\repos\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
